@@ -95,17 +95,17 @@ nc -lvvp 2333//攻击者
 
 **命令解释：**
 
-![image-20240221182027234](https://raw.githubusercontent.com/ljqalex/image/main/image-20240221182154108.png)
+![image-20240221182027234](https://raw.githubusercontent.com/ljqalex/image/main/image-20240221182027234.png)
 
 **Linux进程的创建**
 
 这是**fork**创建子进程：
 
-![image-20240221182154108](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240221182154108.png)
+![image-20240221182154108](https://raw.githubusercontent.com/ljqalex/image/main/image-20240221182154108.png)
 
 **这是execve和fork的区别：**
 
-![image-20240221182700228](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240221182700228.png)
+![image-20240221182700228](https://raw.githubusercontent.com/ljqalex/image/main/image-20240221182700228.png)
 
 当执行命令的时候：
 
@@ -137,7 +137,7 @@ if __name__ =='__main__':
     os .system(cmd)
 ```
 
-![image-20240221184337322](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240221184337322.png)
+![image-20240221184337322](https://raw.githubusercontent.com/ljqalex/image/main/image-20240221184337322.png)
 
 大家便可以看到每个进程的调用情况（非常nice的命令！）
 
