@@ -95,7 +95,7 @@ nc -lvvp 2333//攻击者
 
 **命令解释：**
 
-![image-20240221182027234](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240221182027234.png)
+![image-20240221182027234](https://raw.githubusercontent.com/ljqalex/image/main/image-20240221182154108.png)
 
 **Linux进程的创建**
 
