@@ -144,7 +144,7 @@ info = urllib.request.urlopen(url)
 print(info.read())
 ```
 
-这里有两个协议我们可以利用，一个是fie协议，可以用来读取本地文件。
+这里有两个协议我们可以利用，一个是file协议，可以用来读取本地文件。
 一个是data协议，比较有趣一点，可以嵌入一些我们的任意输入，但是现在网络上似乎没有什么利用点，这个大家可以研究下
 
 链接：https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Data_URLs
