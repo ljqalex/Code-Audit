@@ -51,7 +51,7 @@ file_get_contents("qq".$input);  //没有缺陷
 
 ssrf的发展和起源：
 
-![image-20240223154054739](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240223154054739.png)
+![image-20240223154054739](https://raw.githubusercontent.com/ljqalex/image/main/image-20240223154054739.png)
 
 SSRF(server-side request forgery)为服务端请求伪造，是一种由攻击者形成服务器端发起的安全漏洞。在比较早期的时候，大概是2010年到2017年中的时候，ssrf似乎还不是很盛行，当时我们遇到项目或者可能产生现在常用的ssrf场景时，往往只是利用这个ssrf去进行一个反向代理的作用，当时，ssrf更多还是本地资源的探测和访问、还有内网资源的探测和访问。
 
